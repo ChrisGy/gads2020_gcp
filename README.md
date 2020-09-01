@@ -3,6 +3,6 @@
 
 ## Christian Adumatta Gyampomah
 
-## christiangyampomah@gmail.com
+_christiangyampomah@gmail.com_
 ****
 In fulfilment of my GADS 2020 Learning Project Phase requirements.
