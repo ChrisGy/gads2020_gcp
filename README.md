@@ -1,8 +1,8 @@
 # GADS 2020 (GCP Track)
 ****
 
-##Christian Adumatta Gyampomah
+## Christian Adumatta Gyampomah
 
-##christiangyampomah@gmail.com
+## christiangyampomah@gmail.com
 ****
 In fulfilment of my GADS 2020 Learning Project Phase requirements.
