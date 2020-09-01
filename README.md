@@ -1,6 +1,4 @@
 # GADS 2020 (GCP Track)
-****
-
 ## Christian Adumatta Gyampomah
 
 _christiangyampomah@gmail.com_
