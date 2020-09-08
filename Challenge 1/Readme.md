@@ -7,25 +7,35 @@
 ## 2. VPC Networking
 ![VPC Networking](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/VPC%20Networking.jpg)
 
-## 3. 
+## 3. GCP Fundamentals: Getting Started with Kubernetes Engine
+![] ()
 
 ## 5. 
-
+![] ()
 
 ## 7. 
+![] ()
 
 ## 8. 
+![] ()
 
 ## 9. 
+![] ()
 
 ## 10. 
+![] ()
 
 ## 11. 
+![] ()
 
 ## 12. 
+![] ()
 
 ## 13. 
+![] ()
 
 ## 14. 
+![] ()
 
 ## 15. 
+![] ()
