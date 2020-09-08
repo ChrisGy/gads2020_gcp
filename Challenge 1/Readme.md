@@ -10,7 +10,10 @@
 ## 3. GCP Fundamentals: Getting Started with Kubernetes Engine
 ![] ()
 
-## 5. 
+## 4. GCP Fundamentals: Getting Started with App Engine
+![] ()
+
+## 5. Working with Virtual Machines
 ![] ()
 
 ## 7. 
