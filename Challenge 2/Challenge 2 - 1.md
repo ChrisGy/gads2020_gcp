@@ -78,6 +78,7 @@ gcloud compute --project=$PROJECT_ID firewall-rules create minecraft-rule --targ
 ```
 
 
-
 ****
 
+Tasks 5 & 6 are console-only tasks, hence no translation needed.
+Task 7 is review.
