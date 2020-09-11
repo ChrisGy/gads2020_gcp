@@ -73,13 +73,29 @@ gcloud beta compute --project=qwiklabs-gcp-00-1887033d498e instances create vm-i
 |Name|*(Any globally unique name)* $PROJECT_ID-bucket|
 |Location type|Multi-region|
 ```
-gsutil mb -c standard gs://$PROJECT_ID-bucket
+gsutil mb -c standard -l US gs://$PROJECT_ID-bucket
 ```
 
 
-#### Task 1: Create the VM 
+#### Task 3: Configure Cloud NAT gateway
 
-##### Gcloud translation for Task x:
+We first create our Cloud Router using the command:
+```
+gcloud compute routers create nat-router --network=privatenet --region=us-central1
+```
+
+We create a Cloud NAT gateway with the following properties:
+
+|Property|Value|
+|---|---|
+|Gateway name|	nat-config|
+|VPC network|	privatenet|
+|Region	|us-central1|
+
+```
+gcloud compute routers nats create nat-config --router=nat-router --region=us-central1  --auto-allocate-nat-external-ips --nat-all-subnet-ip-ranges
+```
+
 
 #### Task 1: 
 
