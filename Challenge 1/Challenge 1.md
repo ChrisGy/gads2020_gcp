@@ -28,5 +28,5 @@
 ![Google Cloud Fundamentals: Getting Started with Compute Engine](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Getting%20Started%20with%20Compute%20Engine.png)
 
 ## 10. GCP Fundamentals: Getting Started with Cloud Marketplace
-![GCP Fundamentals: Getting Started with Cloud Marketplace]()
+![GCP Fundamentals: Getting Started with Cloud Marketplace](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Getting%20Started%20with%20Cloud%20Marketplace.png)
 
