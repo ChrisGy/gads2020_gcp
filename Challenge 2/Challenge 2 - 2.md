@@ -72,9 +72,17 @@ gcloud beta compute --project=qwiklabs-gcp-00-1887033d498e instances create vm-i
 |---|---|
 |Name|*(Any globally unique name)* $PROJECT_ID-bucket|
 |Location type|Multi-region|
+
+We use the `US` multi-region for our bucket:
 ```
 gsutil mb -c standard -l US gs://$PROJECT_ID-bucket
 ```
+
+2. Next, we enable Private Google Access
+```
+gcloud compute networks subnets update privatenet-us --enable-private-ip-google-access --region=us-central1
+```
+
 
 
 #### Task 3: Configure Cloud NAT gateway
@@ -85,7 +93,6 @@ gcloud compute routers create nat-router --network=privatenet --region=us-centra
 ```
 
 We create a Cloud NAT gateway with the following properties:
-
 |Property|Value|
 |---|---|
 |Gateway name|	nat-config|
@@ -97,6 +104,10 @@ gcloud compute routers nats create nat-config --router=nat-router --region=us-ce
 ```
 
 
-#### Task 1: 
+#### Task 4: Configure and view logs with Cloud Nat Logging
 
-##### G
+We can Enable Logging using the command:
+
+```
+gcloud compute routers nats update nat-config --router=nat-router --region=us-central1 --enable-logging
+```
