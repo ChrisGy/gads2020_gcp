@@ -5,8 +5,7 @@
 
 #### Task 1: Create the VM instance
 
-Set global variable `Project_ID` for convenience
-`export PROJECT_ID=qwiklabs-gcp-00-1887033d498e`
+Set global variable `Project_ID` for convenience, using command: `export PROJECT_ID=qwiklabs-gcp-00-1887033d498e`
 
 1. Create VPC with custom-mode subnet creation and Private google access disabled, with following properties
 |Property|Value|
@@ -55,14 +54,27 @@ gcloud compute --project=$PROJECT_ID firewall-rules create privatenet-allow-ssh 
 |Subnet|privatenet-us|
 |External IP|None|
 
+We create the above VM using the following gcloud command:
+```
+gcloud beta compute --project=qwiklabs-gcp-00-1887033d498e instances create vm-internal --zone=us-central1-c --machine-type=n1-standard-1 --subnet=privatenet-us --no-address --maintenance-policy=MIGRATE --service-account=827262531687-compute@developer.gserviceaccount.com --scopes=https://www.googleapis.com/auth/devstorage.read_only,https://www.googleapis.com/auth/logging.write,https://www.googleapis.com/auth/monitoring.write,https://www.googleapis.com/auth/servicecontrol,https://www.googleapis.com/auth/service.management.readonly,https://www.googleapis.com/auth/trace.append --image=debian-10-buster-v20200910 --image-project=debian-cloud --boot-disk-size=10GB --boot-disk-type=pd-standard --boot-disk-device-name=vm-internal --no-shielded-secure-boot --no-shielded-vtpm --no-shielded-integrity-monitoring --reservation-affinity=any
+```
+
 ****
 
 
 
 
-#### Task 1: Create the VM
+#### Task 2: Enable Private Google Access
 
-##### Gcloud translation for Task x:
+1. First we create a Cloud Storage bucket with the following properties:
+|Property|Value|
+|---|---|
+|Name|*(Any globally unique name)* $PROJECT_ID-bucket|
+|Location type|Multi-region|
+```
+gsutil mb -c standard -l 
+```
+
 
 #### Task 1: Create the VM 
 
