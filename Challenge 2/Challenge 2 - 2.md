@@ -67,12 +67,13 @@ gcloud beta compute --project=qwiklabs-gcp-00-1887033d498e instances create vm-i
 #### Task 2: Enable Private Google Access
 
 1. First we create a Cloud Storage bucket with the following properties:
+
 |Property|Value|
 |---|---|
 |Name|*(Any globally unique name)* $PROJECT_ID-bucket|
 |Location type|Multi-region|
 ```
-gsutil mb -c standard -l 
+gsutil mb -c standard gs://$PROJECT_ID-bucket
 ```
 
 
