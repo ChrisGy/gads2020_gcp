@@ -25,7 +25,7 @@
 ![Implement Private Google Access and Cloud NAT](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Implement%20Private%20Google%20Access%20and%20Cloud%20NAT.png)
 
 ## 9. Google Cloud Fundamentals: Getting Started with Compute Engine
-![Google Cloud Fundamentals: Getting Started with Compute Engine]()
+![Google Cloud Fundamentals: Getting Started with Compute Engine](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Getting%20Started%20with%20Compute%20Engine.png)
 
 ## 10. GCP Fundamentals: Getting Started with Cloud Marketplace
 ![GCP Fundamentals: Getting Started with Cloud Marketplace]()
