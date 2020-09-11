@@ -15,6 +15,9 @@
 ## 5. Working with Virtual Machines
 ![Working with Virtual machines](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Working%20with%20Virtual%20machines.png)
 
+## 6. 
+![]()
+
 ## 7. Infrastructure Preview
 ![Infrastructure Preview](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Infrastructure%20Preview.png)
 
