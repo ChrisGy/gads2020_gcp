@@ -10,10 +10,10 @@
 ![Getting Started with Kubernetes Engine](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Getting%20started%20with%20GKE.png)
 
 ## 4. GCP Fundamentals: Getting Started with App Engine
-![Getting Started with App Engine] (https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Getting%20started%20with%20App%20Engine.png)
+![Getting Started with App Engine](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Getting%20started%20with%20App%20Engine.png)
 
 ## 5. Working with Virtual Machines
-![Working with Virtual machines] (https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Working%20with%20Virtual%20machines.png)
+![Working with Virtual machines](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Working%20with%20Virtual%20machines.png)
 
 ## 7. 
 ![] ()
