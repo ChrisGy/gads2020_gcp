@@ -16,10 +16,10 @@
 ![Working with Virtual machines](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Working%20with%20Virtual%20machines.png)
 
 ## 7. 
-![Infrastructure Preview]()
+![Infrastructure Preview](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Infrastructure%20Preview.png)
 
 ## 8. 
-![]()
+![Implement Private Google Access and Cloud NAT](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Implement%20Private%20Google%20Access%20and%20Cloud%20NAT.png)
 
 ## 9. 
 ![]()
