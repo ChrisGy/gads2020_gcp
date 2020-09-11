@@ -15,8 +15,8 @@
 ## 5. Working with Virtual Machines
 ![Working with Virtual machines](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Working%20with%20Virtual%20machines.png)
 
-## 6. 
-![]()
+## 6. Creating Virtual Machines
+![ Creating Virtual Machines](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Creating%20Virtual%20Machines.png)
 
 ## 7. Infrastructure Preview
 ![Infrastructure Preview](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Infrastructure%20Preview.png)
@@ -24,23 +24,9 @@
 ## 8. Implement Private Google Access and Cloud NAT
 ![Implement Private Google Access and Cloud NAT](https://github.com/ChrisGy/gads2020_gcp/blob/master/Challenge%201/screenshots/Implement%20Private%20Google%20Access%20and%20Cloud%20NAT.png)
 
-## 9. 
-![]()
+## 9. Google Cloud Fundamentals: Getting Started with Compute Engine
+![Google Cloud Fundamentals: Getting Started with Compute Engine]()
 
-## 10. 
-![]()
+## 10. GCP Fundamentals: Getting Started with Cloud Marketplace
+![GCP Fundamentals: Getting Started with Cloud Marketplace]()
 
-## 11. 
-![]()
-
-## 12. 
-![]()
-
-## 13. 
-![]()
-
-## 14. 
-![]()
-
-## 15. 
-![] ()
