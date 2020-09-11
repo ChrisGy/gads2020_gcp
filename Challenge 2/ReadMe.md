@@ -4,10 +4,9 @@
 #### Course: Essential Google Cloud Infrastructure: Foundation
 #### Module: Virtual Machines
 #### Lab: Working with Virtual Machines
-#### Console Instructions:
 
-Task 1: Create the VM 
-****
+##### Task 1: Create the VM 
+
 
 - In the Cloud Console, on the Navigation menu (Navigation menu), click Compute Engine > VM instances.
 - Click Create. `gcloud compute create`
@@ -62,7 +61,14 @@ gcloud beta compute --project=qwiklabs-gcp-03-b9843bbcf1ff instances create mc-s
 
 ****
 
-# 3
+
+### 2. 
+#### Course: 
+#### Module: 
+#### Lab: 
+
+##### Task 1: Create the VM 
+
 
 ```
 gcloud compute --project=$PROJECT_ID firewall-rules create minecraft-rule --target-tags=minecraft-server --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=tcp:25565 --source-ranges=0.0.0.0/0 
