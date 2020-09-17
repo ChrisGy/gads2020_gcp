@@ -8,6 +8,7 @@
 Set global variable `Project_ID` for convenience, using command: `export PROJECT_ID=qwiklabs-gcp-00-1887033d498e`
 
 1. Create VPC with custom-mode subnet creation and Private google access disabled, with following properties
+
 |Property|Value|
 |VPC Name |privatenet|
 |VPC Subnet mode|Custom|
