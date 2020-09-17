@@ -10,6 +10,7 @@ Set global variable `Project_ID` for convenience, using command: `export PROJECT
 1. Create VPC with custom-mode subnet creation and Private google access disabled, with following properties
 
 |Property|Value|
+|---|---|
 |VPC Name |privatenet|
 |VPC Subnet mode|Custom|
 |New Subnet Name|privatenet-us|
